@@ -1,0 +1,33 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Engineering",
+      "Aerospace Engineering"
+    ],
+    [
+      "Engineering",
+      "Systems Engineering"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "67f8ef91-038c-ea7e-b9db-3f932d19fe38"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "System Safety",
+  "course_description": "This course introduces the concepts of system safety and how to analyze and design safer systems. Topics include the causes of accidents in general, and recent major accidents in particular; hazard analysis, safety-driven design techniques; design of human-automation interaction; integrating safety into the system engineering process; and managing and operating safety-critical systems.\n",
+  "department_numbers": [
+    "16",
+    "IDS"
+  ],
+  "extra_course_numbers": "IDS.045J (formerly ESD.03J)",
+  "primary_course_number": "16.63J",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Online Textbook",
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
